@@ -3,3 +3,6 @@ language: java
 
 #build software 
 script: mvn test
+
+notifications:
+  slack: gsi2016team:saaWhzm3n8WQBKI3EdVXkvWE
